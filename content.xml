@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>zen</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202606091346196NNMTO</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260609134619IHEZAW</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>REALIZAMOS UNA GRABACIÓN DE AUDIO SEMIPROFESIONAL EN EL AULA.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Grabamos, producimos y publicamos nuestra propia música</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Pedro J. Sevilla Gutiérrez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Esta actividad tendrá como objetivo principal que el alumnado aprenda a usar los recursos necesarios para poder realizar una grabación semi profesional de una interpretación con el instrumento. Mediante el uso de software y hardware, se realizará en clase una grabación de audio de algún fragmento, obra o estudio comprendido en la programación didáctica y que previamente habrá sido trabajado en clase. Con esta actividad, se pretende que el alumnado pueda realizar por sí mismo una grabación de su interpretación, algo muy útil que puede ayudarle en un futuro para presentar material requerido en pruebas de orquesta o concursos de interpretación, por ejemplo. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>zen</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1781005360284</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq6cc0uu-yi6arxu03</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6cc0uu-yi6arxu03</odePageId>
+      <odeBlockId>block-1780913009104-x4hte4kjh</odeBlockId>
+      <blockName>Grabamos nuestra propia música</blockName>
+      <iconName>listen</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6cc0uu-yi6arxu03</odePageId>
+          <odeBlockId>block-1780913009104-x4hte4kjh</odeBlockId>
+          <odeIdeviceId>idevice-1780913009103-cux458neo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1000px;"><img src="{{context_path}}/content/resources/REALIZAMOS UNA GRABACIÓN DE AUDIO SEMIPROFESIONAL EN EL AULA. (1)_page-0001.jpg" width="1000" height="1414" alt="Presentación y descripción del proyecto." />
+<figcaption class="figcaption"><a href="https://canva.link/0pi1yp6evvpi1tf" class="author" target="_blank" rel="noopener">Pedro Sevilla Gutiérrez</a>. <span class="title"><em>Descripción del proyecto</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780913009103-cux458neo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1000px;\"><img src=\"{{context_path}}/content/resources/REALIZAMOS UNA GRABACIÓN DE AUDIO SEMIPROFESIONAL EN EL AULA. (1)_page-0001.jpg\" width=\"1000\" height=\"1414\" alt=\"Presentación y descripción del proyecto.\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/0pi1yp6evvpi1tf\" class=\"author\" target=\"_blank\" rel=\"noopener\">Pedro Sevilla Gutiérrez</a>. <span class=\"title\"><em>Descripción del proyecto</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6cc0ux-chsv8nefv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. TU MÚSICA, TUS DATOS, TUS DERECHOS</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. TU MÚSICA, TUS DATOS, TUS DERECHOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. TU MÚSICA, TUS DATOS, TUS DERECHOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. TU MÚSICA, TUS DATOS, TUS DERECHOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6cc0ux-chsv8nefv</odePageId>
+      <odeBlockId>block-1780944479976-976apy2h4</odeBlockId>
+      <blockName>Protección de datos personales y garantías de derechos digitales</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6cc0ux-chsv8nefv</odePageId>
+          <odeBlockId>block-1780944479976-976apy2h4</odeBlockId>
+          <odeIdeviceId>idevice-1780944479975-yf46ni51c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1000px;"><img src="{{context_path}}/content/resources/Infografía P. Sevilla_page-0001.jpg" width="1000" height="1414" alt="Infografía sobre la protección de datos personales y garantías de derechos digitales en las Enseñanzas Profesionales de Música" title="Infografía de elaboración propia" />
+<figcaption class="figcaption"><a href="https://canva.link/1ehdrg96ae29v4l" class="author" target="_blank" rel="noopener">Pedro Sevilla Gutiérrez</a>. <span class="title"><em>Infografía de elaboración propia</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780944479975-yf46ni51c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1000px;\"><img src=\"{{context_path}}/content/resources/Infografía P. Sevilla_page-0001.jpg\" width=\"1000\" height=\"1414\" alt=\"Infografía sobre la protección de datos personales y garantías de derechos digitales en las Enseñanzas Profesionales de Música\" title=\"Infografía de elaboración propia\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/1ehdrg96ae29v4l\" class=\"author\" target=\"_blank\" rel=\"noopener\">Pedro Sevilla Gutiérrez</a>. <span class=\"title\"><em>Infografía de elaboración propia</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mq6cc0uy-9msop5di3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. ¿QUÉ VAMOS A ELABORAR?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. ¿QUÉ VAMOS A ELABORAR?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. ¿QUÉ VAMOS A ELABORAR?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq6cc0uy-9msop5di3</odePageId>
+      <odeBlockId>block-1780945555234-mmghka223</odeBlockId>
+      <blockName>Montamos nuestro propio estudio de grabación: GarageBand y Canva</blockName>
+      <iconName>music</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq6cc0uy-9msop5di3</odePageId>
+          <odeBlockId>block-1780945555234-mmghka223</odeBlockId>
+          <odeIdeviceId>idevice-1780945555233-n409swtoj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto está pensado para cualquier curso de Enseñanzas Profesionales de Música, con el objetivo de desarrollar la grabación y presentación de contenidos musicales elaborados por el propio alumnado. El uso de las herramientas <em><strong>GarageBand</strong> </em>y <strong><em>Canva</em></strong> presenta versatilidad y facilidad de uso, además de poder ser instaladas en los dispositivos que posee el alumnado con facilidad. </p>
+<p>Por un lado, <em><strong>GarageBand</strong></em> permite realizar grabaciones de audio de calidad de manera intuitiva, favoreciendo que el alumnado pueda centrarse en aspectos interpretativos y de escucha crítica de su propia ejecución instrumental. Además, su interfaz visual y sencilla resulta adecuada para estudiantes que ya poseen una competencia digital media y están habituados al uso de dispositivos tecnológicos en contextos educativos y personales.</p>
+<figure class="exe-figure position-center" style="width: 526px;"><img src="{{context_path}}/content/resources/IMG_0722.jpg" title="Ejemplo de la interfaz de GarageBand" width="526" height="384" alt="Ejemplo de la interfaz de GarageBand" />
+<figcaption class="figcaption"><a href="https://apple.com" class="author" target="_blank" rel="noopener">Apple Inc.</a>. <span class="title"><em>Ejemplo de la interfaz de GarageBand</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Todos los derechos reservados</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Por otro lado, <em><strong>Canva</strong></em> complementa la actividad desde una perspectiva visual y organizativa. El alumnado elaborará una infografía con las instrucciones necesarias para realizar correctamente la grabación de audio, fomentando así la síntesis de información, la organización de contenidos y la creatividad digital. Asimismo, la grabación obtenida servirá como base para diseñar un cartel o portada visual que acompañe al contenido sonoro generado por cada estudiante. Todas estas acciones deberán realizarse bajo el entorno seguro de la cuenta corporativa de <em><strong>Canva</strong></em> para educación. Así mismo, el contenido elaborado por el alumnado será subido a la plataforma <em><strong>Classroom, </strong></em>en la tarea correspondiente.</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/IMG_0723.jpg" title="Ejemplo de la interfaz de Canva" width="526" height="347" alt="Ejemplo de la interfaz de Canva" /></p>
+<figure class="exe-figure position-center" style="width: 526px;">
+<figcaption class="figcaption"><a href="https://canva.com" class="author" target="_blank" rel="noopener">Canva Pty Ltd</a>. <span class="title"><em>Ejemplo de la interfaz de Canva</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Todos los derechos reservados</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p>La propuesta se adapta al contexto y a las características del alumnado, ya que se trata de estudiantes de enseñanzas musicales profesionales con capacidad para trabajar de forma autónoma y reflexiva. A través de este proyecto no solo se trabajan competencias musicales relacionadas con la interpretación y la autoevaluación, sino también aspectos vinculados a la competencia digital docente y del alumnado, como la creación de contenidos digitales, el tratamiento de archivos multimedia y la comunicación visual.</p>
+<p>En definitiva, el uso combinado de <strong><em>GarageBand</em></strong> y <strong><em>Canva</em></strong> permitirán desarrollar una actividad motivadora, práctica y cercana a los intereses del alumnado, integrando herramientas digitales accesibles y funcionales dentro del proceso de enseñanza-aprendizaje instrumental.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780945555233-n409swtoj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto está pensado para cualquier curso de Enseñanzas Profesionales de Música, con el objetivo de desarrollar la grabación y presentación de contenidos musicales elaborados por el propio alumnado. El uso de las herramientas <em><strong>GarageBand</strong> </em>y <strong><em>Canva</em></strong> presenta versatilidad y facilidad de uso, además de poder ser instaladas en los dispositivos que posee el alumnado con facilidad. </p>\n<p>Por un lado, <em><strong>GarageBand</strong></em> permite realizar grabaciones de audio de calidad de manera intuitiva, favoreciendo que el alumnado pueda centrarse en aspectos interpretativos y de escucha crítica de su propia ejecución instrumental. Además, su interfaz visual y sencilla resulta adecuada para estudiantes que ya poseen una competencia digital media y están habituados al uso de dispositivos tecnológicos en contextos educativos y personales.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 526px;\"><img src=\"{{context_path}}/content/resources/IMG_0722.jpg\" title=\"Ejemplo de la interfaz de GarageBand\" width=\"526\" height=\"384\" alt=\"Ejemplo de la interfaz de GarageBand\" />\n<figcaption class=\"figcaption\"><a href=\"https://apple.com\" class=\"author\" target=\"_blank\" rel=\"noopener\">Apple Inc.</a>. <span class=\"title\"><em>Ejemplo de la interfaz de GarageBand</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Todos los derechos reservados</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Por otro lado, <em><strong>Canva</strong></em> complementa la actividad desde una perspectiva visual y organizativa. El alumnado elaborará una infografía con las instrucciones necesarias para realizar correctamente la grabación de audio, fomentando así la síntesis de información, la organización de contenidos y la creatividad digital. Asimismo, la grabación obtenida servirá como base para diseñar un cartel o portada visual que acompañe al contenido sonoro generado por cada estudiante. Todas estas acciones deberán realizarse bajo el entorno seguro de la cuenta corporativa de <em><strong>Canva</strong></em> para educación. Así mismo, el contenido elaborado por el alumnado será subido a la plataforma <em><strong>Classroom, </strong></em>en la tarea correspondiente.</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/IMG_0723.jpg\" title=\"Ejemplo de la interfaz de Canva\" width=\"526\" height=\"347\" alt=\"Ejemplo de la interfaz de Canva\" /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 526px;\">\n<figcaption class=\"figcaption\"><a href=\"https://canva.com\" class=\"author\" target=\"_blank\" rel=\"noopener\">Canva Pty Ltd</a>. <span class=\"title\"><em>Ejemplo de la interfaz de Canva</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Todos los derechos reservados</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>La propuesta se adapta al contexto y a las características del alumnado, ya que se trata de estudiantes de enseñanzas musicales profesionales con capacidad para trabajar de forma autónoma y reflexiva. A través de este proyecto no solo se trabajan competencias musicales relacionadas con la interpretación y la autoevaluación, sino también aspectos vinculados a la competencia digital docente y del alumnado, como la creación de contenidos digitales, el tratamiento de archivos multimedia y la comunicación visual.</p>\n<p>En definitiva, el uso combinado de <strong><em>GarageBand</em></strong> y <strong><em>Canva</em></strong> permitirán desarrollar una actividad motivadora, práctica y cercana a los intereses del alumnado, integrando herramientas digitales accesibles y funcionales dentro del proceso de enseñanza-aprendizaje instrumental.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780992710720-zjxtmcvp3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. ¡SILENCIO! SE GRABA</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. ¡SILENCIO! SE GRABA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. ¡SILENCIO! SE GRABA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. ¡SILENCIO! SE GRABA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780992710720-zjxtmcvp3</odePageId>
+      <odeBlockId>block-1780992714023-wdwf1pgmo</odeBlockId>
+      <blockName>Línea temporal del proyecto</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780992710720-zjxtmcvp3</odePageId>
+          <odeBlockId>block-1780992714023-wdwf1pgmo</odeBlockId>
+          <odeIdeviceId>idevice-1780992714022-srn0tkyhc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: left;">A continuación, podemos ver la línea temporal de las diferentes sesiones que tendrá el proyecto de grabación. Es importante leer las instrucciones y preparar los recursos necesarios para cada una de ellas, para no retrasar la entrega del producto final. </p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<figure class="exe-figure exe-media position-center license-CC-BY" style="width: 1091px;" id="fig_q8163j0ye"><iframe width="1091" height="1097" src="https://padlet.com/embed/nzsojc9lieugcia2"></iframe>
+<figcaption class="figcaption"><a href="https://padlet.com/psevgut616/realizamos-una-grabacion-de-audio-semiprofesional-en-el-aula-nzsojc9lieugcia2" target="_blank" class="author" rel="noopener">Pedro Sevilla Gutiérrez</a>. <span class="title"><em>Línea temporal del proyecto</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780992714022-srn0tkyhc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: left;\">A continuación, podemos ver la línea temporal de las diferentes sesiones que tendrá el proyecto de grabación. Es importante leer las instrucciones y preparar los recursos necesarios para cada una de ellas, para no retrasar la entrega del producto final. </p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<figure class=\"exe-figure exe-media position-center license-CC-BY\" style=\"width: 1091px;\" id=\"fig_q8163j0ye\"><iframe width=\"1091\" height=\"1097\" src=\"https://padlet.com/embed/nzsojc9lieugcia2\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"https://padlet.com/psevgut616/realizamos-una-grabacion-de-audio-semiprofesional-en-el-aula-nzsojc9lieugcia2\" target=\"_blank\" class=\"author\" rel=\"noopener\">Pedro Sevilla Gutiérrez</a>. <span class=\"title\"><em>Línea temporal del proyecto</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780994008335-tjmtgv6zb</odePageId>
+  <odeParentPageId>page-1780992710720-zjxtmcvp3</odeParentPageId>
+  <pageName>Sesión 1 y 2</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1 y 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 1 y 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1 y 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780994008335-tjmtgv6zb</odePageId>
+      <odeBlockId>block-1780994015781-inow036uk</odeBlockId>
+      <blockName>Conocemos el proyecto y las herramientas a utilizar</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780994008335-tjmtgv6zb</odePageId>
+          <odeBlockId>block-1780994015781-inow036uk</odeBlockId>
+          <odeIdeviceId>idevice-1780994015780-7fyile9uy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>00:25</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>En esta primera sesión, vamos a profundizar en los detalles del proyecto usando como recurso el siguiente enlace de <em title=""><strong title=""><a href="https://www.symbaloo.com/">Symbaloo</a>.</strong></em><em> </em>En él podrás encontrar todos los recursos y materiales que vamos a utilizar en el proyecto. Asegúrate de leer y visualizar bien todo el contenido para solucionar todas aquellas dudas y preguntas que puedan surgir. Haz clic aquí: <a href="https://www.symbaloo.com/shared/AAAAAUs3FvEAA41-5EkVaA==" target="_blank" rel="noopener" title="">comenzamos nuestra grabación</a></p>
+<figure class="exe-figure position-center" style="width: 1114px;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-06-09 105313.png" title="Symbaloo" width="1114" height="446" alt="Captura de pantalla del recurso Symbaloo" />
+<figcaption class="figcaption"><span class="author">Pedro Sevilla Gutiérrez</span>. <span class="title"><em>Captura de pantalla del recurso Symbaloo</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Una vez visualizado el contenido, no olvides descargar las aplicaciones necesaria para llevar a cabo el proyecto en tu dispositivo.</p>
+<p><br /></p>
+<p><iframe width="800" height="600" style="border: none;" src="https://www.symbaloo.com/shared/AAAAAUs3FvEAA41-5EkVaA==" allowfullscreen="allowfullscreen"></iframe></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780994015780-7fyile9uy","textInfoDurationInput":"00:25","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>00:25</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>En esta primera sesión, vamos a profundizar en los detalles del proyecto usando como recurso el siguiente enlace de <em title=\"\"><strong title=\"\"><a href=\"https://www.symbaloo.com/\">Symbaloo</a>.</strong></em><em> </em>En él podrás encontrar todos los recursos y materiales que vamos a utilizar en el proyecto. Asegúrate de leer y visualizar bien todo el contenido para solucionar todas aquellas dudas y preguntas que puedan surgir. Haz clic aquí: <a href=\"https://www.symbaloo.com/shared/AAAAAUs3FvEAA41-5EkVaA==\" target=\"_blank\" rel=\"noopener\" title=\"\">comenzamos nuestra grabación</a></p>\n<figure class=\"exe-figure position-center\" style=\"width: 1114px;\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-06-09 105313.png\" title=\"Symbaloo\" width=\"1114\" height=\"446\" alt=\"Captura de pantalla del recurso Symbaloo\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Pedro Sevilla Gutiérrez</span>. <span class=\"title\"><em>Captura de pantalla del recurso Symbaloo</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Una vez visualizado el contenido, no olvides descargar las aplicaciones necesaria para llevar a cabo el proyecto en tu dispositivo.</p>\n<p><br /></p>\n<p><iframe width=\"800\" height=\"600\" style=\"border: none;\" src=\"https://www.symbaloo.com/shared/AAAAAUs3FvEAA41-5EkVaA==\" allowfullscreen=\"allowfullscreen\"></iframe></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780995705937-umtynsep3</odePageId>
+  <odeParentPageId>page-1780992710720-zjxtmcvp3</odeParentPageId>
+  <pageName>Sesión 3</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780995705937-umtynsep3</odePageId>
+      <odeBlockId>block-1780996225191-8fqvsq3w8</odeBlockId>
+      <blockName>1,2,3...¡grabando!</blockName>
+      <iconName>play</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780995705937-umtynsep3</odePageId>
+          <odeBlockId>block-1780996225191-8fqvsq3w8</odeBlockId>
+          <odeIdeviceId>idevice-1780996225190-7mx5xvowg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>00:30</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>Llegó el momento de realizar nuestra grabación de audio en clase, no sin antes elaborar nuestra propia infografía con los mejores consejos para obtener el mejor resultado posible. Para ello, usaremos la aplicación <a href="https://www.canva.com/"><em><strong title="">Canva</strong></em></a> y realizaremos algo sencillo, directo y claro, donde se puedan ver con facilidad los consejos previos para realizar la grabación. Por aquí tienes un ejemplo:</p>
+<figure class="exe-figure position-center" style="width: 400px;"><img src="{{context_path}}/content/resources/Infografía Datos sobre Música Ilustrado Doodle Amarillo y Negro.jpg" title="Consejos de grabación" width="400" height="1000" alt="Consejos de grabación" />
+<figcaption class="figcaption"><a href="https://canva.link/bvikmcsrkq1erfm" class="author" target="_blank" rel="noopener">Pedro Sevilla Gutiérrez</a>. <span class="title"><em>Infografía de elaboración propia</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Una vez todo preparado y listo...¡adelante! Llegó el momento de ofrecer la mejor versión del artista que llevas dentro y de realizar esas tomas de audio que luego servirán para obtener nuestro producto final. </p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780996225190-7mx5xvowg","textInfoDurationInput":"00:30","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>00:30</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>Llegó el momento de realizar nuestra grabación de audio en clase, no sin antes elaborar nuestra propia infografía con los mejores consejos para obtener el mejor resultado posible. Para ello, usaremos la aplicación <a href=\"https://www.canva.com/\"><em><strong title=\"\">Canva</strong></em></a> y realizaremos algo sencillo, directo y claro, donde se puedan ver con facilidad los consejos previos para realizar la grabación. Por aquí tienes un ejemplo:</p>\n<figure class=\"exe-figure position-center\" style=\"width: 400px;\"><img src=\"{{context_path}}/content/resources/Infografía Datos sobre Música Ilustrado Doodle Amarillo y Negro.jpg\" title=\"Consejos de grabación\" width=\"400\" height=\"1000\" alt=\"Consejos de grabación\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/bvikmcsrkq1erfm\" class=\"author\" target=\"_blank\" rel=\"noopener\">Pedro Sevilla Gutiérrez</a>. <span class=\"title\"><em>Infografía de elaboración propia</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Una vez todo preparado y listo...¡adelante! Llegó el momento de ofrecer la mejor versión del artista que llevas dentro y de realizar esas tomas de audio que luego servirán para obtener nuestro producto final. </p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780997119936-2nk5nd6ap</odePageId>
+  <odeParentPageId>page-1780992710720-zjxtmcvp3</odeParentPageId>
+  <pageName>Sesión 4</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780997119936-2nk5nd6ap</odePageId>
+      <odeBlockId>block-1780997129990-zieg86y59</odeBlockId>
+      <blockName>Hora de producir</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780997119936-2nk5nd6ap</odePageId>
+          <odeBlockId>block-1780997129990-zieg86y59</odeBlockId>
+          <odeIdeviceId>idevice-1780997129989-8tfm3obq8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>00:25</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>Una vez llegados a este punto, llegó la hora de elaborar nuestro producto final. Es el momento de escuchar las diferentes tomas de grabación y elegir la mejor de ellas. Recuerda que <em><strong>GarageBand</strong></em><strong> </strong>es un excelente editor de audio también en el que podemos corregir cosas como la ecualización y el tono o añadir efectos como reverberación. Es el turno de exportar y guardar nuestro archivo de audio.</p>
+<p>Una vez editado y procesado nuestro audio final, es hora de "publicarlo" como si de un nuevo <em>single</em> se tratara. Para ello, tendremos que usar de nuevo <em><strong><a href="https://www.canva.com/" target="_blank" title="" rel="noopener">Canva</a></strong></em><strong> </strong>para realizar un cartel o una portada que recoja la información de la grabación (repertorio, intérprete y aquellos detalles que consideres importantes) y que incluya un enlace o un código QR donde escuchar la grabación. Por aquí puedes ver un ejemplo:</p>
+<figure class="exe-figure position-center" style="width: 500px;"><img src="{{context_path}}/content/resources/badinage.jpg" title="Ejemplo de portada" width="500" height="500" alt="Ejemplo de portada" />
+<figcaption class="figcaption"><a href="https://canva.link/djh3mff1ugua5b3" class="author" target="_blank" rel="noopener">Pedro Sevilla Gutiérrez</a>. <span class="title"><em>Ejemplo de portada</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>El archivo de audio se subirá a la plataforma <a href="https://drive.google.com" target="_blank" title="" rel="noopener"><em><strong title="">Google Drive</strong></em></a> en la carpeta habilitada para tal fin, y el cartel con todos los detalles será entregado en la tarea creada en <em><strong title=""><a href="https://edu.google.com/intl/ALL_es/workspace-for-education/products/classroom/" target="_blank" rel="noopener">Classroom</a></strong></em></p>
+<p><em><strong title=""></strong></em><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780997129989-8tfm3obq8","textInfoDurationInput":"00:25","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>00:25</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>Una vez llegados a este punto, llegó la hora de elaborar nuestro producto final. Es el momento de escuchar las diferentes tomas de grabación y elegir la mejor de ellas. Recuerda que <em><strong>GarageBand</strong></em><strong> </strong>es un excelente editor de audio también en el que podemos corregir cosas como la ecualización y el tono o añadir efectos como reverberación. Es el turno de exportar y guardar nuestro archivo de audio.</p>\n<p>Una vez editado y procesado nuestro audio final, es hora de \"publicarlo\" como si de un nuevo <em>single</em> se tratara. Para ello, tendremos que usar de nuevo <em><strong><a href=\"https://www.canva.com/\" target=\"_blank\" title=\"\" rel=\"noopener\">Canva</a></strong></em><strong> </strong>para realizar un cartel o una portada que recoja la información de la grabación (repertorio, intérprete y aquellos detalles que consideres importantes) y que incluya un enlace o un código QR donde escuchar la grabación. Por aquí puedes ver un ejemplo:</p>\n<figure class=\"exe-figure position-center\" style=\"width: 500px;\"><img src=\"{{context_path}}/content/resources/badinage.jpg\" title=\"Ejemplo de portada\" width=\"500\" height=\"500\" alt=\"Ejemplo de portada\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/djh3mff1ugua5b3\" class=\"author\" target=\"_blank\" rel=\"noopener\">Pedro Sevilla Gutiérrez</a>. <span class=\"title\"><em>Ejemplo de portada</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>El archivo de audio se subirá a la plataforma <a href=\"https://drive.google.com\" target=\"_blank\" title=\"\" rel=\"noopener\"><em><strong title=\"\">Google Drive</strong></em></a> en la carpeta habilitada para tal fin, y el cartel con todos los detalles será entregado en la tarea creada en <em><strong title=\"\"><a href=\"https://edu.google.com/intl/ALL_es/workspace-for-education/products/classroom/\" target=\"_blank\" rel=\"noopener\">Classroom</a></strong></em></p>\n<p><em><strong title=\"\"></strong></em><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780998848088-1n9rr9vcy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. EVALUAMOS NUESTRO PROYECTO</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. EVALUAMOS NUESTRO PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780998848088-1n9rr9vcy</odePageId>
+      <odeBlockId>block-1780998853099-px3v9ew3e</odeBlockId>
+      <blockName>¿Cómo ha ido?</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780998848088-1n9rr9vcy</odePageId>
+          <odeBlockId>block-1780998853099-px3v9ew3e</odeBlockId>
+          <odeIdeviceId>idevice-1780998853097-jsv6xb7zf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>00:10</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>Para la evaluación de este proyecto se emplearán dos instrumentos complementarios: una rúbrica de evaluación y una entrevista individual con el alumnado. Ambos instrumentos permitirán obtener información tanto sobre el producto final como sobre el proceso de aprendizaje desarrollado durante la actividad. El uso de los mismos tendrá lugar en la última sesión de trabajo del proyecto (la número 5), dedicada a la autoevaluación del mismo.</p>
+<p><span style="font-size: 18pt;"><strong>RÚBRICA DE AUTOEVALUACIÓN</strong></span><br />En primer lugar, se utilizará una rúbrica de autoevaluación diseñada específicamente para la tarea de grabación e interpretación musical. Esta rúbrica evaluará aspectos musicales y técnicos relacionados con la interpretación de la trompeta, tales como el ritmo y pulso, la afinación, el sonido y la respiración, la expresión musical, así como la calidad de la grabación realizada con <em><strong>GarageBand</strong></em>. Además, incluirá criterios relacionados con la presentación final del producto musical elaborado en <em><strong>Canva</strong></em>, valorando la creatividad y el cuidado de la portada, así como el grado de preparación previo del alumnado. Este instrumento permitirá al estudiante reflexionar sobre su propio desempeño, identificar fortalezas y aspectos de mejora y desarrollar su capacidad de autorregulación. Los datos obtenidos ofrecerán información cuantitativa y cualitativa sobre el nivel alcanzado en cada criterio, permitiendo detectar patrones de dificultad comunes y orientar futuras intervenciones didácticas. </p>
+<figure class="exe-figure position-center" style="width: 600px;"><img src="{{context_path}}/content/resources/rúbrica de evaluación.png" title="Rúbrica de evaluación" width="600" height="424" alt="Rúbrica de evaluación" />
+<figcaption class="figcaption"><a href="https://canva.link/wnt21ls26flep4a" class="author" target="_blank" rel="noopener">Pedro Sevilla Gutiérrez</a>. <span class="title"><em>Rúbrica de evaluación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><span style="font-size: 18pt;"><strong>ENTREVISTA INDIVIDUAL.</strong></span><br />En segundo lugar, se llevará a cabo una entrevista individual semiestructurada una vez finalizada la actividad. A través de ella se recogerán evidencias sobre la percepción que tiene el alumnado de su propio aprendizaje, las dificultades encontradas durante el proceso de grabación y edición, el grado de satisfacción con el resultado final y la utilidad percibida de herramientas digitales como <em><strong>GarageBand</strong></em> y <em><strong>Canva</strong></em>. Este instrumento permitirá profundizar en aspectos que no siempre son visibles mediante la observación o la rúbrica, aportando información contextual sobre la experiencia de aprendizaje. Los datos recogidos serán analizados para conocer las necesidades formativas o posibles obstáculos técnicos y metodológicos que hayan surgido durante la actividad.</p>
+<p>A continuación, podemos ver las cinco preguntas que se realizarán al alumno en la entrevista:</p>
+<div class="exe-fx exe-accordion">
+<h2>¿Cómo te has sentido realizando la grabación de tu interpretación con GarageBand?</h2>
+<p>Permite conocer el grado de comodidad, motivación y confianza del alumno durante la actividad.</p>
+<h2>¿Qué aspecto de tu interpretación crees que ha salido mejor y cuál mejorarías si volvieras a grabarla?</h2>
+<p>Favorece la reflexión crítica y complementa la información obtenida en la rúbrica.</p>
+<h2>¿Has encontrado alguna dificultad técnica al utilizar GarageBand o Canva? ¿Cómo la has resuelto?</h2>
+<p>Aporta información sobre posibles problemas tecnológicos y el grado de autonomía del alumnado.</p>
+<h2> ¿Crees que la creación de una portada y la presentación de la grabación en Canva ha mejorado la forma de mostrar tu trabajo musical? ¿Por qué?</h2>
+<p>Permite valorar la percepción del alumnado sobre la integración de herramientas digitales y creativas.</p>
+<h2>¿Qué has aprendido con esta actividad que pueda ayudarte en futuras interpretaciones o proyectos musicales?</h2>
+<p>Ayuda a identificar aprendizajes significativos y la transferencia de conocimientos a situaciones futuras.</p>
+</div>
+<p><br /><br /></p>
+<p><br /><br /><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780998853097-jsv6xb7zf","textInfoDurationInput":"00:10","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>00:10</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p>Para la evaluación de este proyecto se emplearán dos instrumentos complementarios: una rúbrica de evaluación y una entrevista individual con el alumnado. Ambos instrumentos permitirán obtener información tanto sobre el producto final como sobre el proceso de aprendizaje desarrollado durante la actividad. El uso de los mismos tendrá lugar en la última sesión de trabajo del proyecto (la número 5), dedicada a la autoevaluación del mismo.</p>\n<p><span style=\"font-size: 18pt;\"><strong>RÚBRICA DE AUTOEVALUACIÓN</strong></span><br />En primer lugar, se utilizará una rúbrica de autoevaluación diseñada específicamente para la tarea de grabación e interpretación musical. Esta rúbrica evaluará aspectos musicales y técnicos relacionados con la interpretación de la trompeta, tales como el ritmo y pulso, la afinación, el sonido y la respiración, la expresión musical, así como la calidad de la grabación realizada con <em><strong>GarageBand</strong></em>. Además, incluirá criterios relacionados con la presentación final del producto musical elaborado en <em><strong>Canva</strong></em>, valorando la creatividad y el cuidado de la portada, así como el grado de preparación previo del alumnado. Este instrumento permitirá al estudiante reflexionar sobre su propio desempeño, identificar fortalezas y aspectos de mejora y desarrollar su capacidad de autorregulación. Los datos obtenidos ofrecerán información cuantitativa y cualitativa sobre el nivel alcanzado en cada criterio, permitiendo detectar patrones de dificultad comunes y orientar futuras intervenciones didácticas. </p>\n<figure class=\"exe-figure position-center\" style=\"width: 600px;\"><img src=\"{{context_path}}/content/resources/rúbrica de evaluación.png\" title=\"Rúbrica de evaluación\" width=\"600\" height=\"424\" alt=\"Rúbrica de evaluación\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/wnt21ls26flep4a\" class=\"author\" target=\"_blank\" rel=\"noopener\">Pedro Sevilla Gutiérrez</a>. <span class=\"title\"><em>Rúbrica de evaluación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><span style=\"font-size: 18pt;\"><strong>ENTREVISTA INDIVIDUAL.</strong></span><br />En segundo lugar, se llevará a cabo una entrevista individual semiestructurada una vez finalizada la actividad. A través de ella se recogerán evidencias sobre la percepción que tiene el alumnado de su propio aprendizaje, las dificultades encontradas durante el proceso de grabación y edición, el grado de satisfacción con el resultado final y la utilidad percibida de herramientas digitales como <em><strong>GarageBand</strong></em> y <em><strong>Canva</strong></em>. Este instrumento permitirá profundizar en aspectos que no siempre son visibles mediante la observación o la rúbrica, aportando información contextual sobre la experiencia de aprendizaje. Los datos recogidos serán analizados para conocer las necesidades formativas o posibles obstáculos técnicos y metodológicos que hayan surgido durante la actividad.</p>\n<p>A continuación, podemos ver las cinco preguntas que se realizarán al alumno en la entrevista:</p>\n<div class=\"exe-fx exe-accordion\">\n<h2>¿Cómo te has sentido realizando la grabación de tu interpretación con GarageBand?</h2>\n<p>Permite conocer el grado de comodidad, motivación y confianza del alumno durante la actividad.</p>\n<h2>¿Qué aspecto de tu interpretación crees que ha salido mejor y cuál mejorarías si volvieras a grabarla?</h2>\n<p>Favorece la reflexión crítica y complementa la información obtenida en la rúbrica.</p>\n<h2>¿Has encontrado alguna dificultad técnica al utilizar GarageBand o Canva? ¿Cómo la has resuelto?</h2>\n<p>Aporta información sobre posibles problemas tecnológicos y el grado de autonomía del alumnado.</p>\n<h2> ¿Crees que la creación de una portada y la presentación de la grabación en Canva ha mejorado la forma de mostrar tu trabajo musical? ¿Por qué?</h2>\n<p>Permite valorar la percepción del alumnado sobre la integración de herramientas digitales y creativas.</p>\n<h2>¿Qué has aprendido con esta actividad que pueda ayudarte en futuras interpretaciones o proyectos musicales?</h2>\n<p>Ayuda a identificar aprendizajes significativos y la transferencia de conocimientos a situaciones futuras.</p>\n</div>\n<p><br /><br /></p>\n<p><br /><br /><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781000482547-1kjj76thp</odePageId>
+  <odeParentPageId>page-1780998848088-1n9rr9vcy</odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781000482547-1kjj76thp</odePageId>
+      <odeBlockId>block-1781000571606-dmp7i7x63</odeBlockId>
+      <blockName>Tareas y criterios de evaluación</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781000482547-1kjj76thp</odePageId>
+          <odeBlockId>block-1781000571606-dmp7i7x63</odeBlockId>
+          <odeIdeviceId>idevice-1781000571604-k7y481edv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se presentan los criterios de evaluación asociados a las diferentes actividades que se realizarán en el proyecto. Puedes consultar cada uno de ellos y ver cada uno al detalle:</p>
+<p style="text-align: center;">     </p>
+<figure class="exe-figure position-center" style="width: 966px;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-06-09 122901.png" title="Criterios de evaluación" width="966" height="566" alt="Criterios de evaluación" />
+<figcaption class="figcaption"><a href="https://docs.google.com/document/d/1sA3n087JL863CRElkUeYX2rmQc3x0KVjm7vo_khg46o/edit?usp=sharing" class="author" target="_blank" rel="noopener">Pedro Sevilla Gutiérrez</a>. <span class="title"><em>Criterios de evaluación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781000571604-k7y481edv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se presentan los criterios de evaluación asociados a las diferentes actividades que se realizarán en el proyecto. Puedes consultar cada uno de ellos y ver cada uno al detalle:</p>\n<p style=\"text-align: center;\">     </p>\n<figure class=\"exe-figure position-center\" style=\"width: 966px;\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-06-09 122901.png\" title=\"Criterios de evaluación\" width=\"966\" height=\"566\" alt=\"Criterios de evaluación\" />\n<figcaption class=\"figcaption\"><a href=\"https://docs.google.com/document/d/1sA3n087JL863CRElkUeYX2rmQc3x0KVjm7vo_khg46o/edit?usp=sharing\" class=\"author\" target=\"_blank\" rel=\"noopener\">Pedro Sevilla Gutiérrez</a>. <span class=\"title\"><em>Criterios de evaluación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781001704785-71szrz8h2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>RECURSOS PARA EL DOCENTE</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECURSOS PARA EL DOCENTE</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781001704785-71szrz8h2</odePageId>
+      <odeBlockId>block-1781001707857-sfob53ddp</odeBlockId>
+      <blockName>Recursos para el aula de trompeta</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781001704785-71szrz8h2</odePageId>
+          <odeBlockId>block-1781001707857-sfob53ddp</odeBlockId>
+          <odeIdeviceId>idevice-1781001707857-wbxwzdo7i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p title="">Aquí podemos ver un resumen creado con la herramienta <em><strong><a href="http://www.padlet.com">padlet</a> </strong></em>con los recursos necesarios que debe tener el profesorado implicado para la realización del proyecto, además de algunos otros que facilitan el día a día en la clase de instrumento:</p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/b7f6so159frxo21q" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781001707857-wbxwzdo7i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p title=\"\">Aquí podemos ver un resumen creado con la herramienta <em><strong><a href=\"http://www.padlet.com\">padlet</a> </strong></em>con los recursos necesarios que debe tener el profesorado implicado para la realización del proyecto, además de algunos otros que facilitan el día a día en la clase de instrumento:</p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/b7f6so159frxo21q\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781002134864-koyy7zbcm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781002134864-koyy7zbcm</odePageId>
+      <odeBlockId>block-1781002149636-h08snj781</odeBlockId>
+      <blockName></blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781002134864-koyy7zbcm</odePageId>
+          <odeBlockId>block-1781002149636-h08snj781</odeBlockId>
+          <odeIdeviceId>idevice-1781002149635-o4m7l7ysz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace, se podrá ver y comprobar el documento que recoge con exactitud los criterios de evaluación asociados a cada una de las diferentes tareas del proyecto al detalle. Así mismo, se incluye un apartado final con alternativas y solución de problemas para solventar cualquier dificultad que pudiera presentarse en la realización del proyecto:</p>
+<p style="text-align: center;"><span style="font-size: 24pt;"><a href="https://docs.google.com/document/d/1QijKOw9bguNgX042PwmcFJykA5ZsEDxEG76_12muXaY/edit?usp=sharing" target="_blank" rel="noopener" title="">Guía didáctica</a></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781002149635-o4m7l7ysz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace, se podrá ver y comprobar el documento que recoge con exactitud los criterios de evaluación asociados a cada una de las diferentes tareas del proyecto al detalle. Así mismo, se incluye un apartado final con alternativas y solución de problemas para solventar cualquier dificultad que pudiera presentarse en la realización del proyecto:</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 24pt;\"><a href=\"https://docs.google.com/document/d/1QijKOw9bguNgX042PwmcFJykA5ZsEDxEG76_12muXaY/edit?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">Guía didáctica</a></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781002623848-esbpkr1mz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781002623848-esbpkr1mz</odePageId>
+      <odeBlockId>block-1781003583866-0ehr6fl7i</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781002623848-esbpkr1mz</odePageId>
+          <odeBlockId>block-1781003583866-0ehr6fl7i</odeBlockId>
+          <odeIdeviceId>idevice-1781003583865-tmtcrcr6t</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">REALIZAMOS UNA GRABACIÓN DE AUDIO SEMIPROFESIONAL EN EL AULA.</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Esta actividad tendrá como objetivo principal que el alumnado aprenda a usar los recursos necesarios para poder realizar una grabación semi profesional de una interpretación con el instrumento. Mediante el uso de software y hardware, se realizará en clase una grabación de audio de algún fragmento, obra o estudio comprendido en la programación didáctica y que previamente habrá sido trabajado en clase. Con esta actividad, se pretende que el alumnado pueda realizar por sí mismo una grabación de su interpretación, algo muy útil que puede ayudarle en un futuro para presentar material requerido en pruebas de orquesta o concursos de interpretación, por ejemplo. </span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Pedro J. Sevilla Gutiérrez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
